@@ -1,0 +1,78 @@
+[
+  {
+    "package": "econio",
+    "url": "https://github.com/UchidaMizuki/econio"
+  },
+  {
+    "package": "econioread",
+    "url": "https://github.com/UchidaMizuki/econioread"
+  },
+  {
+    "package": "econiodatajp",
+    "url": "https://github.com/UchidaMizuki/econiodatajp"
+  },
+  {
+    "package": "econagent",
+    "url": "https://github.com/UchidaMizuki/econagent"
+  },
+  {
+    "package": "ndgras",
+    "url": "https://github.com/UchidaMizuki/ndgras"
+  },
+  {
+    "package": "jpstat",
+    "url": "https://github.com/UchidaMizuki/jpstat"
+  },
+  {
+    "package": "jpgrid",
+    "url": "https://github.com/UchidaMizuki/jpgrid"
+  },
+  {
+    "package": "jpcity",
+    "url": "https://github.com/UchidaMizuki/jpcity"
+  },
+  {
+    "package": "jpmap",
+    "url": "https://github.com/UchidaMizuki/jpmap"
+  },
+  {
+    "package": "mlitdata",
+    "url": "https://github.com/UchidaMizuki/mlitdata"
+  },
+  {
+    "package": "mojxmlr",
+    "url": "https://github.com/UchidaMizuki/mojxmlr"
+  },
+  {
+    "package": "dibble",
+    "url": "https://github.com/UchidaMizuki/dibble"
+  },
+  {
+    "package": "timbr",
+    "url": "https://github.com/UchidaMizuki/timbr"
+  },
+  {
+    "package": "navigatr",
+    "url": "https://github.com/UchidaMizuki/navigatr"
+  },
+  {
+    "package": "adverbial",
+    "url": "https://github.com/UchidaMizuki/adverbial"
+  },
+  {
+    "package": "stickyr",
+    "url": "https://github.com/UchidaMizuki/stickyr"
+  },
+  {
+    "package": "tarchives",
+    "url": "https://github.com/UchidaMizuki/tarchives"
+  },
+  {
+    "package": "dagbuildr",
+    "url": "https://github.com/UchidaMizuki/dagbuildr"
+  },
+  {
+    "package": "prorata",
+    "url": "https://github.com/UchidaMizuki/prorata"
+  }
+]
