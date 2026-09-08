@@ -36,10 +36,6 @@
     "url": "https://github.com/UchidaMizuki/jpmap"
   },
   {
-    "package": "mlitdata",
-    "url": "https://github.com/UchidaMizuki/mlitdata"
-  },
-  {
     "package": "dibble",
     "url": "https://github.com/UchidaMizuki/dibble"
   },
@@ -62,13 +58,5 @@
   {
     "package": "tarchives",
     "url": "https://github.com/UchidaMizuki/tarchives"
-  },
-  {
-    "package": "dagbuildr",
-    "url": "https://github.com/UchidaMizuki/dagbuildr"
-  },
-  {
-    "package": "prorata",
-    "url": "https://github.com/UchidaMizuki/prorata"
   }
 ]
